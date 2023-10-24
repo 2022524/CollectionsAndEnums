@@ -14,6 +14,8 @@ import java.util.Map;
 import java.util.HashMap;
 
 
+// https://github.com/2022524/CollectionsAndEnums
+
 public class CollectionsAndEnums {
 
     // Defining 20 team names
